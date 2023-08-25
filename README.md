@@ -1,2 +1,2 @@
-# kubernetesyt
-Code samples from Youtube videos
+# kubernetes classes
+Code samples from kubernetes
